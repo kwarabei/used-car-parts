@@ -1,0 +1,7 @@
+query GetParts {
+  parts {
+    id
+    title
+    description
+  }
+}
